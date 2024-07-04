@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976244366488",
+    "project_id": "bpilot-b290b",
+    "storage_bucket": "bpilot-b290b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976244366488:android:bab0681db33f4ae787c4ed",
+        "android_client_info": {
+          "package_name": "com.example.bpilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCooKUNENS8iCwnxT1546S_oQC5SzGYcf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
